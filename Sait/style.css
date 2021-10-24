@@ -1,0 +1,60 @@
+html{
+    background-color: rgb(158, 158, 158);
+    font-family: 'Architects Daughter', cursive;
+}
+body{
+    width: 70%;
+    margin: auto;
+    background-color: darkseagreen;
+}
+header{
+    width: 100%;
+    height: 90px;
+    border: 1px solid white;
+}
+main{
+    width: 100%;
+    border: 1px solid white;
+}
+#nameOfSait{
+    display: -webkit-inline-box; 
+    margin-left: 38%;
+    color: lawngreen;
+
+}
+#container{
+    width: 70%;
+    margin: auto;
+}
+#firstText{
+    text-align: justify;
+    width: 95%;
+    margin: auto;
+}
+#secondText{
+    text-align: justify;
+    width: 95%;
+    margin: auto;
+}
+#thirdText{
+    text-align: justify;
+    width: 95%;
+    margin: auto;
+}
+#fourthText{
+    text-align: justify;
+    width: 100%;
+    
+}
+#firstBlockImg{
+    width: 100%;
+
+}
+#firstImg{
+    width: 50%;
+    display: inline-block;
+}
+#secondImg{
+    width: 45%;
+    display: inline-block;
+}
